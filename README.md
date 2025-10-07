@@ -86,7 +86,7 @@ for the game logic and design structure.
 
 Here are some screenshots of the game in action:
 
-| Pause Screen                | Game Over Screen            |
-|-----------------------------|-----------------------------|
-| ![Pause Screen](src/screenshots/pause_screen.png) | ![Game Over](srcscreenshots/gameover.png) |
+| Gameplay Screen                | Pause Screen                | Game Over Screen            |
+|--------------------------------|-----------------------------|-----------------------------|
+| ![Gameplay](src/screenshots/gameplay_screen.png) | ![Pause Screen](src/screenshots/pause_screen.png) | ![Game Over](src/screenshots/gameover_screen.png) |
 
