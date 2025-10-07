@@ -81,3 +81,12 @@ Feel free to explore, modify, and learn from it.
 
 Thanks to BroCode for foundational tutorials and inspiration  
 for the game logic and design structure.
+
+## 📸 Sample Gameplay
+
+Here are some screenshots of the game in action:
+
+| Pause Screen                | Game Over Screen            |
+|-----------------------------|-----------------------------|
+| ![Pause Screen](src/screenshots/pause_screen.png) | ![Game Over](srcscreenshots/gameover.png) |
+
