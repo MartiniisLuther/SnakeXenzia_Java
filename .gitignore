@@ -1,0 +1,15 @@
+# Ignore Eclpise Project files
+.classpath
+.project
+.settings/
+
+# Ignore build directories
+bin/
+out/
+target/
+
+# Ignore system files
+*.log
+*.tmp
+*.DS_Store
+
